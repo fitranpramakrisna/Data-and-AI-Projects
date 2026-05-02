@@ -1,0 +1,488 @@
+[
+    {
+        "ScopusComOrgTotalDocsID": 1,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Medicine",
+        "TotalDocs": 11232
+    },
+    {
+        "ScopusComOrgTotalDocsID": 2,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Engineering",
+        "TotalDocs": 7291
+    },
+    {
+        "ScopusComOrgTotalDocsID": 3,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Physics and Astronomy",
+        "TotalDocs": 6431
+    },
+    {
+        "ScopusComOrgTotalDocsID": 4,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Computer Science",
+        "TotalDocs": 5716
+    },
+    {
+        "ScopusComOrgTotalDocsID": 5,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Social Science",
+        "TotalDocs": 4642
+    },
+    {
+        "ScopusComOrgTotalDocsID": 6,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Environmental Science",
+        "TotalDocs": 4585
+    },
+    {
+        "ScopusComOrgTotalDocsID": 7,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Material Science",
+        "TotalDocs": 2952
+    },
+    {
+        "ScopusComOrgTotalDocsID": 8,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Business, Management and Accounting",
+        "TotalDocs": 2900
+    },
+    {
+        "ScopusComOrgTotalDocsID": 9,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Earth and Planetary Sciences",
+        "TotalDocs": 2891
+    },
+    {
+        "ScopusComOrgTotalDocsID": 10,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Energy",
+        "TotalDocs": 2162
+    },
+    {
+        "ScopusComOrgTotalDocsID": 11,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Biochemistry, Genetics and Molecular Biology",
+        "TotalDocs": 2143
+    },
+    {
+        "ScopusComOrgTotalDocsID": 12,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Pharmacology, Toxicology and Pharmaceutics",
+        "TotalDocs": 1971
+    },
+    {
+        "ScopusComOrgTotalDocsID": 13,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Decision Sciences",
+        "TotalDocs": 1686
+    },
+    {
+        "ScopusComOrgTotalDocsID": 14,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Agricultural and Biological Sciences",
+        "TotalDocs": 1672
+    },
+    {
+        "ScopusComOrgTotalDocsID": 15,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Mathematics",
+        "TotalDocs": 1459
+    },
+    {
+        "ScopusComOrgTotalDocsID": 16,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Nursing",
+        "TotalDocs": 1454
+    },
+    {
+        "ScopusComOrgTotalDocsID": 17,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Economics, Econometrics and Finance",
+        "TotalDocs": 1308
+    },
+    {
+        "ScopusComOrgTotalDocsID": 18,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Chemistry",
+        "TotalDocs": 1175
+    },
+    {
+        "ScopusComOrgTotalDocsID": 19,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Arts and Humanities",
+        "TotalDocs": 1041
+    },
+    {
+        "ScopusComOrgTotalDocsID": 20,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Dentistry",
+        "TotalDocs": 1038
+    },
+    {
+        "ScopusComOrgTotalDocsID": 21,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Chemical Engineering",
+        "TotalDocs": 993
+    },
+    {
+        "ScopusComOrgTotalDocsID": 22,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Immunology and Microbiology",
+        "TotalDocs": 849
+    },
+    {
+        "ScopusComOrgTotalDocsID": 23,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Multidisciplinary",
+        "TotalDocs": 806
+    },
+    {
+        "ScopusComOrgTotalDocsID": 24,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Psychology",
+        "TotalDocs": 460
+    },
+    {
+        "ScopusComOrgTotalDocsID": 25,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Health Professions",
+        "TotalDocs": 411
+    },
+    {
+        "ScopusComOrgTotalDocsID": 26,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Neuroscience",
+        "TotalDocs": 275
+    },
+    {
+        "ScopusComOrgTotalDocsID": 27,
+        "ScopusComOrgID": 1,
+        "SubjectAreas": "Veterinary",
+        "TotalDocs": 141
+    },
+    {
+        "ScopusComOrgTotalDocsID": 1,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Environmental Science",
+        "TotalDocs": 5986
+    },
+    {
+        "ScopusComOrgTotalDocsID": 2,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Engineering",
+        "TotalDocs": 5825
+    },
+    {
+        "ScopusComOrgTotalDocsID": 3,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Medicine",
+        "TotalDocs": 5751
+    },
+    {
+        "ScopusComOrgTotalDocsID": 4,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Agricultural and Biological Sciences",
+        "TotalDocs": 5049
+    },
+    {
+        "ScopusComOrgTotalDocsID": 5,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Earth and Planetary Sciences",
+        "TotalDocs": 4463
+    },
+    {
+        "ScopusComOrgTotalDocsID": 6,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Computer Science",
+        "TotalDocs": 3910
+    },
+    {
+        "ScopusComOrgTotalDocsID": 7,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Social Science",
+        "TotalDocs": 3668
+    },
+    {
+        "ScopusComOrgTotalDocsID": 8,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Physics and Astronomy",
+        "TotalDocs": 3484
+    },
+    {
+        "ScopusComOrgTotalDocsID": 9,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Biochemistry, Genetics and Molecular Biology",
+        "TotalDocs": 2895
+    },
+    {
+        "ScopusComOrgTotalDocsID": 10,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Material Science",
+        "TotalDocs": 2179
+    },
+    {
+        "ScopusComOrgTotalDocsID": 11,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Energy",
+        "TotalDocs": 2020
+    },
+    {
+        "ScopusComOrgTotalDocsID": 12,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Chemistry",
+        "TotalDocs": 1811
+    },
+    {
+        "ScopusComOrgTotalDocsID": 13,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Pharmacology, Toxicology and Pharmaceutics",
+        "TotalDocs": 1665
+    },
+    {
+        "ScopusComOrgTotalDocsID": 14,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Mathematics",
+        "TotalDocs": 1632
+    },
+    {
+        "ScopusComOrgTotalDocsID": 15,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Business, Management and Accounting",
+        "TotalDocs": 1345
+    },
+    {
+        "ScopusComOrgTotalDocsID": 16,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Chemical Engineering",
+        "TotalDocs": 1189
+    },
+    {
+        "ScopusComOrgTotalDocsID": 17,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Decision Sciences",
+        "TotalDocs": 1054
+    },
+    {
+        "ScopusComOrgTotalDocsID": 18,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Veterinary",
+        "TotalDocs": 914
+    },
+    {
+        "ScopusComOrgTotalDocsID": 19,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Immunology and Microbiology",
+        "TotalDocs": 826
+    },
+    {
+        "ScopusComOrgTotalDocsID": 20,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Arts and Humanities",
+        "TotalDocs": 748
+    },
+    {
+        "ScopusComOrgTotalDocsID": 21,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Economics, Econometrics and Finance",
+        "TotalDocs": 742
+    },
+    {
+        "ScopusComOrgTotalDocsID": 22,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Nursing",
+        "TotalDocs": 684
+    },
+    {
+        "ScopusComOrgTotalDocsID": 23,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Multidisciplinary",
+        "TotalDocs": 679
+    },
+    {
+        "ScopusComOrgTotalDocsID": 24,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Health Professions",
+        "TotalDocs": 456
+    },
+    {
+        "ScopusComOrgTotalDocsID": 25,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Dentistry",
+        "TotalDocs": 330
+    },
+    {
+        "ScopusComOrgTotalDocsID": 26,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Psychology",
+        "TotalDocs": 268
+    },
+    {
+        "ScopusComOrgTotalDocsID": 27,
+        "ScopusComOrgID": 2,
+        "SubjectAreas": "Neuroscience",
+        "TotalDocs": 118
+    },
+    {
+        "ScopusComOrgTotalDocsID": 1,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Engineering",
+        "TotalDocs": 9950
+    },
+    {
+        "ScopusComOrgTotalDocsID": 2,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Computer Science",
+        "TotalDocs": 7374
+    },
+    {
+        "ScopusComOrgTotalDocsID": 3,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Physics and Astronomy",
+        "TotalDocs": 6737
+    },
+    {
+        "ScopusComOrgTotalDocsID": 4,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Environmental Science",
+        "TotalDocs": 4432
+    },
+    {
+        "ScopusComOrgTotalDocsID": 5,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Earth and Planetary Sciences",
+        "TotalDocs": 4220
+    },
+    {
+        "ScopusComOrgTotalDocsID": 6,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Material Science",
+        "TotalDocs": 3376
+    },
+    {
+        "ScopusComOrgTotalDocsID": 7,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Energy",
+        "TotalDocs": 2780
+    },
+    {
+        "ScopusComOrgTotalDocsID": 8,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Mathematics",
+        "TotalDocs": 2683
+    },
+    {
+        "ScopusComOrgTotalDocsID": 9,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Social Science",
+        "TotalDocs": 2282
+    },
+    {
+        "ScopusComOrgTotalDocsID": 10,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Chemistry",
+        "TotalDocs": 1945
+    },
+    {
+        "ScopusComOrgTotalDocsID": 11,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Agricultural and Biological Sciences",
+        "TotalDocs": 1703
+    },
+    {
+        "ScopusComOrgTotalDocsID": 12,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Chemical Engineering",
+        "TotalDocs": 1686
+    },
+    {
+        "ScopusComOrgTotalDocsID": 13,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Decision Sciences",
+        "TotalDocs": 1601
+    },
+    {
+        "ScopusComOrgTotalDocsID": 14,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Biochemistry, Genetics and Molecular Biology",
+        "TotalDocs": 1378
+    },
+    {
+        "ScopusComOrgTotalDocsID": 15,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Business, Management and Accounting",
+        "TotalDocs": 1297
+    },
+    {
+        "ScopusComOrgTotalDocsID": 16,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Medicine",
+        "TotalDocs": 1102
+    },
+    {
+        "ScopusComOrgTotalDocsID": 17,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Pharmacology, Toxicology and Pharmaceutics",
+        "TotalDocs": 866
+    },
+    {
+        "ScopusComOrgTotalDocsID": 18,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Multidisciplinary",
+        "TotalDocs": 640
+    },
+    {
+        "ScopusComOrgTotalDocsID": 19,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Economics, Econometrics and Finance",
+        "TotalDocs": 419
+    },
+    {
+        "ScopusComOrgTotalDocsID": 20,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Arts and Humanities",
+        "TotalDocs": 286
+    },
+    {
+        "ScopusComOrgTotalDocsID": 21,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Immunology and Microbiology",
+        "TotalDocs": 234
+    },
+    {
+        "ScopusComOrgTotalDocsID": 22,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Health Professions",
+        "TotalDocs": 176
+    },
+    {
+        "ScopusComOrgTotalDocsID": 23,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Neuroscience",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgTotalDocsID": 24,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Psychology",
+        "TotalDocs": 40
+    },
+    {
+        "ScopusComOrgTotalDocsID": 25,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Dentistry",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgTotalDocsID": 26,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Veterinary",
+        "TotalDocs": 27
+    },
+    {
+        "ScopusComOrgTotalDocsID": 27,
+        "ScopusComOrgID": 3,
+        "SubjectAreas": "Nursing",
+        "TotalDocs": 26
+    }
+]

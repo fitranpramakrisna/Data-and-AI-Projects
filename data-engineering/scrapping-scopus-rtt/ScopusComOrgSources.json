@@ -1,0 +1,2702 @@
+[
+    {
+        "ScopusComOrgSourcesID": 1,
+        "ScopusComOrgID": 1,
+        "SourceName": "Harvard Medical School",
+        "TotalDocs": 126
+    },
+    {
+        "ScopusComOrgSourcesID": 2,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Toronto",
+        "TotalDocs": 109
+    },
+    {
+        "ScopusComOrgSourcesID": 3,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Tokyo",
+        "TotalDocs": 184
+    },
+    {
+        "ScopusComOrgSourcesID": 4,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Oxford",
+        "TotalDocs": 322
+    },
+    {
+        "ScopusComOrgSourcesID": 5,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universidade de São Paulo",
+        "TotalDocs": 130
+    },
+    {
+        "ScopusComOrgSourcesID": 6,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Washington",
+        "TotalDocs": 136
+    },
+    {
+        "ScopusComOrgSourcesID": 7,
+        "ScopusComOrgID": 1,
+        "SourceName": "University College London",
+        "TotalDocs": 185
+    },
+    {
+        "ScopusComOrgSourcesID": 8,
+        "ScopusComOrgID": 1,
+        "SourceName": "Imperial College London",
+        "TotalDocs": 216
+    },
+    {
+        "ScopusComOrgSourcesID": 9,
+        "ScopusComOrgID": 1,
+        "SourceName": "Kyoto University",
+        "TotalDocs": 112
+    },
+    {
+        "ScopusComOrgSourcesID": 10,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of British Columbia",
+        "TotalDocs": 106
+    },
+    {
+        "ScopusComOrgSourcesID": 11,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Melbourne",
+        "TotalDocs": 298
+    },
+    {
+        "ScopusComOrgSourcesID": 12,
+        "ScopusComOrgID": 1,
+        "SourceName": "National Institutes of Health (NIH)",
+        "TotalDocs": 106
+    },
+    {
+        "ScopusComOrgSourcesID": 13,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Sydney",
+        "TotalDocs": 234
+    },
+    {
+        "ScopusComOrgSourcesID": 14,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of California, San Francisco",
+        "TotalDocs": 106
+    },
+    {
+        "ScopusComOrgSourcesID": 15,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Manchester",
+        "TotalDocs": 109
+    },
+    {
+        "ScopusComOrgSourcesID": 16,
+        "ScopusComOrgID": 1,
+        "SourceName": "National University of Singapore",
+        "TotalDocs": 347
+    },
+    {
+        "ScopusComOrgSourcesID": 17,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Queensland",
+        "TotalDocs": 262
+    },
+    {
+        "ScopusComOrgSourcesID": 18,
+        "ScopusComOrgID": 1,
+        "SourceName": "KU Leuven",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 19,
+        "ScopusComOrgID": 1,
+        "SourceName": "Monash University",
+        "TotalDocs": 268
+    },
+    {
+        "ScopusComOrgSourcesID": 20,
+        "ScopusComOrgID": 1,
+        "SourceName": "Johns Hopkins University",
+        "TotalDocs": 112
+    },
+    {
+        "ScopusComOrgSourcesID": 21,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Osaka",
+        "TotalDocs": 102
+    },
+    {
+        "ScopusComOrgSourcesID": 22,
+        "ScopusComOrgID": 1,
+        "SourceName": "UNSW Sydney",
+        "TotalDocs": 218
+    },
+    {
+        "ScopusComOrgSourcesID": 23,
+        "ScopusComOrgID": 1,
+        "SourceName": "King's College London",
+        "TotalDocs": 131
+    },
+    {
+        "ScopusComOrgSourcesID": 24,
+        "ScopusComOrgID": 1,
+        "SourceName": "Harvard University",
+        "TotalDocs": 93
+    },
+    {
+        "ScopusComOrgSourcesID": 25,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Edinburgh",
+        "TotalDocs": 149
+    },
+    {
+        "ScopusComOrgSourcesID": 26,
+        "ScopusComOrgID": 1,
+        "SourceName": "Karolinska Institutet",
+        "TotalDocs": 117
+    },
+    {
+        "ScopusComOrgSourcesID": 27,
+        "ScopusComOrgID": 1,
+        "SourceName": "Institute of Science Tokyo",
+        "TotalDocs": 111
+    },
+    {
+        "ScopusComOrgSourcesID": 28,
+        "ScopusComOrgID": 1,
+        "SourceName": "Seoul National University",
+        "TotalDocs": 94
+    },
+    {
+        "ScopusComOrgSourcesID": 29,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiteit van Amsterdam",
+        "TotalDocs": 132
+    },
+    {
+        "ScopusComOrgSourcesID": 30,
+        "ScopusComOrgID": 1,
+        "SourceName": "Alma Mater Studiorum Università di Bologna",
+        "TotalDocs": 103
+    },
+    {
+        "ScopusComOrgSourcesID": 31,
+        "ScopusComOrgID": 1,
+        "SourceName": "Nanyang Technological University",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 32,
+        "ScopusComOrgID": 1,
+        "SourceName": "Helsingin Yliopisto",
+        "TotalDocs": 98
+    },
+    {
+        "ScopusComOrgSourcesID": 33,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universität Heidelberg",
+        "TotalDocs": 99
+    },
+    {
+        "ScopusComOrgSourcesID": 34,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiteit Utrecht",
+        "TotalDocs": 122
+    },
+    {
+        "ScopusComOrgSourcesID": 35,
+        "ScopusComOrgID": 1,
+        "SourceName": "McMaster University",
+        "TotalDocs": 106
+    },
+    {
+        "ScopusComOrgSourcesID": 36,
+        "ScopusComOrgID": 1,
+        "SourceName": "The Australian National University",
+        "TotalDocs": 130
+    },
+    {
+        "ScopusComOrgSourcesID": 37,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Hong Kong",
+        "TotalDocs": 166
+    },
+    {
+        "ScopusComOrgSourcesID": 38,
+        "ScopusComOrgID": 1,
+        "SourceName": "Rijksuniversiteit Groningen",
+        "TotalDocs": 242
+    },
+    {
+        "ScopusComOrgSourcesID": 39,
+        "ScopusComOrgID": 1,
+        "SourceName": "Kyushu University",
+        "TotalDocs": 106
+    },
+    {
+        "ScopusComOrgSourcesID": 40,
+        "ScopusComOrgID": 1,
+        "SourceName": "Chinese University of Hong Kong",
+        "TotalDocs": 232
+    },
+    {
+        "ScopusComOrgSourcesID": 41,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Western Australia",
+        "TotalDocs": 179
+    },
+    {
+        "ScopusComOrgSourcesID": 42,
+        "ScopusComOrgID": 1,
+        "SourceName": "King Saud University",
+        "TotalDocs": 116
+    },
+    {
+        "ScopusComOrgSourcesID": 43,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Adelaide",
+        "TotalDocs": 120
+    },
+    {
+        "ScopusComOrgSourcesID": 44,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Bern",
+        "TotalDocs": 124
+    },
+    {
+        "ScopusComOrgSourcesID": 45,
+        "ScopusComOrgID": 1,
+        "SourceName": "Cleveland Clinic Foundation",
+        "TotalDocs": 102
+    },
+    {
+        "ScopusComOrgSourcesID": 46,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universidade do Porto",
+        "TotalDocs": 107
+    },
+    {
+        "ScopusComOrgSourcesID": 47,
+        "ScopusComOrgID": 1,
+        "SourceName": "Wageningen University & Research",
+        "TotalDocs": 108
+    },
+    {
+        "ScopusComOrgSourcesID": 48,
+        "ScopusComOrgID": 1,
+        "SourceName": "Erasmus MC",
+        "TotalDocs": 195
+    },
+    {
+        "ScopusComOrgSourcesID": 49,
+        "ScopusComOrgID": 1,
+        "SourceName": "Capital Medical University",
+        "TotalDocs": 100
+    },
+    {
+        "ScopusComOrgSourcesID": 50,
+        "ScopusComOrgID": 1,
+        "SourceName": "Cairo University",
+        "TotalDocs": 122
+    },
+    {
+        "ScopusComOrgSourcesID": 51,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Cape Town",
+        "TotalDocs": 99
+    },
+    {
+        "ScopusComOrgSourcesID": 52,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Belgrade",
+        "TotalDocs": 108
+    },
+    {
+        "ScopusComOrgSourcesID": 53,
+        "ScopusComOrgID": 1,
+        "SourceName": "Radboud University Medical Center",
+        "TotalDocs": 155
+    },
+    {
+        "ScopusComOrgSourcesID": 54,
+        "ScopusComOrgID": 1,
+        "SourceName": "Harvard T.H. Chan School of Public Health",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 55,
+        "ScopusComOrgID": 1,
+        "SourceName": "University Medical Center Utrecht",
+        "TotalDocs": 145
+    },
+    {
+        "ScopusComOrgSourcesID": 56,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Malaya",
+        "TotalDocs": 386
+    },
+    {
+        "ScopusComOrgSourcesID": 57,
+        "ScopusComOrgID": 1,
+        "SourceName": "Leids Universitair Medisch Centrum",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 58,
+        "ScopusComOrgID": 1,
+        "SourceName": "Tehran University of Medical Sciences",
+        "TotalDocs": 120
+    },
+    {
+        "ScopusComOrgSourcesID": 59,
+        "ScopusComOrgID": 1,
+        "SourceName": "King Abdulaziz University",
+        "TotalDocs": 119
+    },
+    {
+        "ScopusComOrgSourcesID": 60,
+        "ScopusComOrgID": 1,
+        "SourceName": "Keio University",
+        "TotalDocs": 126
+    },
+    {
+        "ScopusComOrgSourcesID": 61,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Technology Sydney",
+        "TotalDocs": 136
+    },
+    {
+        "ScopusComOrgSourcesID": 62,
+        "ScopusComOrgID": 1,
+        "SourceName": "Curtin University",
+        "TotalDocs": 124
+    },
+    {
+        "ScopusComOrgSourcesID": 63,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitair Medisch Centrum Groningen",
+        "TotalDocs": 165
+    },
+    {
+        "ScopusComOrgSourcesID": 64,
+        "ScopusComOrgID": 1,
+        "SourceName": "Deakin University",
+        "TotalDocs": 103
+    },
+    {
+        "ScopusComOrgSourcesID": 65,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Kebangsaan Malaysia",
+        "TotalDocs": 237
+    },
+    {
+        "ScopusComOrgSourcesID": 66,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Putra Malaysia",
+        "TotalDocs": 131
+    },
+    {
+        "ScopusComOrgSourcesID": 67,
+        "ScopusComOrgID": 1,
+        "SourceName": "London School of Hygiene & Tropical Medicine",
+        "TotalDocs": 205
+    },
+    {
+        "ScopusComOrgSourcesID": 68,
+        "ScopusComOrgID": 1,
+        "SourceName": "Mahidol University",
+        "TotalDocs": 363
+    },
+    {
+        "ScopusComOrgSourcesID": 69,
+        "ScopusComOrgID": 1,
+        "SourceName": "Stellenbosch University",
+        "TotalDocs": 98
+    },
+    {
+        "ScopusComOrgSourcesID": 70,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Sains Malaysia",
+        "TotalDocs": 192
+    },
+    {
+        "ScopusComOrgSourcesID": 71,
+        "ScopusComOrgID": 1,
+        "SourceName": "La Trobe University",
+        "TotalDocs": 95
+    },
+    {
+        "ScopusComOrgSourcesID": 72,
+        "ScopusComOrgID": 1,
+        "SourceName": "Chulalongkorn University",
+        "TotalDocs": 189
+    },
+    {
+        "ScopusComOrgSourcesID": 73,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Teknologi Malaysia",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 74,
+        "ScopusComOrgID": 1,
+        "SourceName": "All India Institute of Medical Sciences, New Delhi",
+        "TotalDocs": 99
+    },
+    {
+        "ScopusComOrgSourcesID": 75,
+        "ScopusComOrgID": 1,
+        "SourceName": "Shahid Beheshti University of Medical Sciences",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 76,
+        "ScopusComOrgID": 1,
+        "SourceName": "Ain Shams University",
+        "TotalDocs": 101
+    },
+    {
+        "ScopusComOrgSourcesID": 77,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Teknologi MARA",
+        "TotalDocs": 156
+    },
+    {
+        "ScopusComOrgSourcesID": 78,
+        "ScopusComOrgID": 1,
+        "SourceName": "Yonsei University College of Medicine",
+        "TotalDocs": 130
+    },
+    {
+        "ScopusComOrgSourcesID": 79,
+        "ScopusComOrgID": 1,
+        "SourceName": "National Taiwan University Hospital",
+        "TotalDocs": 131
+    },
+    {
+        "ScopusComOrgSourcesID": 80,
+        "ScopusComOrgID": 1,
+        "SourceName": "Organisation Mondiale de la Santé",
+        "TotalDocs": 132
+    },
+    {
+        "ScopusComOrgSourcesID": 81,
+        "ScopusComOrgID": 1,
+        "SourceName": "James Cook University",
+        "TotalDocs": 101
+    },
+    {
+        "ScopusComOrgSourcesID": 82,
+        "ScopusComOrgID": 1,
+        "SourceName": "Chiang Mai University",
+        "TotalDocs": 119
+    },
+    {
+        "ScopusComOrgSourcesID": 83,
+        "ScopusComOrgID": 1,
+        "SourceName": "Taipei Medical University",
+        "TotalDocs": 117
+    },
+    {
+        "ScopusComOrgSourcesID": 84,
+        "ScopusComOrgID": 1,
+        "SourceName": "Iran University of Medical Sciences",
+        "TotalDocs": 93
+    },
+    {
+        "ScopusComOrgSourcesID": 85,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Gadjah Mada",
+        "TotalDocs": 684
+    },
+    {
+        "ScopusComOrgSourcesID": 86,
+        "ScopusComOrgID": 1,
+        "SourceName": "NUS Yong Loo Lin School of Medicine",
+        "TotalDocs": 166
+    },
+    {
+        "ScopusComOrgSourcesID": 87,
+        "ScopusComOrgID": 1,
+        "SourceName": "Taipei Veterans General Hospital",
+        "TotalDocs": 99
+    },
+    {
+        "ScopusComOrgSourcesID": 88,
+        "ScopusComOrgID": 1,
+        "SourceName": "Institut Teknologi Bandung",
+        "TotalDocs": 520
+    },
+    {
+        "ScopusComOrgSourcesID": 89,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of Ibadan",
+        "TotalDocs": 98
+    },
+    {
+        "ScopusComOrgSourcesID": 90,
+        "ScopusComOrgID": 1,
+        "SourceName": "The University of Jordan",
+        "TotalDocs": 93
+    },
+    {
+        "ScopusComOrgSourcesID": 91,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Airlangga",
+        "TotalDocs": 758
+    },
+    {
+        "ScopusComOrgSourcesID": 92,
+        "ScopusComOrgID": 1,
+        "SourceName": "International Islamic University Malaysia",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 93,
+        "ScopusComOrgID": 1,
+        "SourceName": "Nuffield Department of Medicine",
+        "TotalDocs": 214
+    },
+    {
+        "ScopusComOrgSourcesID": 94,
+        "ScopusComOrgID": 1,
+        "SourceName": "Badan Riset dan Inovasi Nasional",
+        "TotalDocs": 1625
+    },
+    {
+        "ScopusComOrgSourcesID": 95,
+        "ScopusComOrgID": 1,
+        "SourceName": "IPB University",
+        "TotalDocs": 587
+    },
+    {
+        "ScopusComOrgSourcesID": 96,
+        "ScopusComOrgID": 1,
+        "SourceName": "Duke-NUS Medical School",
+        "TotalDocs": 116
+    },
+    {
+        "ScopusComOrgSourcesID": 97,
+        "ScopusComOrgID": 1,
+        "SourceName": "Institut Teknologi Sepuluh Nopember",
+        "TotalDocs": 157
+    },
+    {
+        "ScopusComOrgSourcesID": 98,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Diponegoro",
+        "TotalDocs": 334
+    },
+    {
+        "ScopusComOrgSourcesID": 99,
+        "ScopusComOrgID": 1,
+        "SourceName": "The Aga Khan University",
+        "TotalDocs": 110
+    },
+    {
+        "ScopusComOrgSourcesID": 100,
+        "ScopusComOrgID": 1,
+        "SourceName": "Brawijaya University",
+        "TotalDocs": 300
+    },
+    {
+        "ScopusComOrgSourcesID": 101,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Padjadjaran",
+        "TotalDocs": 678
+    },
+    {
+        "ScopusComOrgSourcesID": 102,
+        "ScopusComOrgID": 1,
+        "SourceName": "Siriraj Hospital",
+        "TotalDocs": 189
+    },
+    {
+        "ScopusComOrgSourcesID": 103,
+        "ScopusComOrgID": 1,
+        "SourceName": "Hasanuddin University",
+        "TotalDocs": 385
+    },
+    {
+        "ScopusComOrgSourcesID": 104,
+        "ScopusComOrgID": 1,
+        "SourceName": "Bina Nusantara University",
+        "TotalDocs": 379
+    },
+    {
+        "ScopusComOrgSourcesID": 105,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Sebelas Maret",
+        "TotalDocs": 312
+    },
+    {
+        "ScopusComOrgSourcesID": 106,
+        "ScopusComOrgID": 1,
+        "SourceName": "National University Hospital",
+        "TotalDocs": 95
+    },
+    {
+        "ScopusComOrgSourcesID": 107,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Sumatera Utara",
+        "TotalDocs": 420
+    },
+    {
+        "ScopusComOrgSourcesID": 108,
+        "ScopusComOrgID": 1,
+        "SourceName": "Lembaga Ilmu Pengetahuan Indonesia",
+        "TotalDocs": 765
+    },
+    {
+        "ScopusComOrgSourcesID": 109,
+        "ScopusComOrgID": 1,
+        "SourceName": "Tan Tock Seng Hospital",
+        "TotalDocs": 122
+    },
+    {
+        "ScopusComOrgSourcesID": 110,
+        "ScopusComOrgID": 1,
+        "SourceName": "Hamad Medical Corporation",
+        "TotalDocs": 94
+    },
+    {
+        "ScopusComOrgSourcesID": 111,
+        "ScopusComOrgID": 1,
+        "SourceName": "Telkom University",
+        "TotalDocs": 127
+    },
+    {
+        "ScopusComOrgSourcesID": 112,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Syiah Kuala",
+        "TotalDocs": 210
+    },
+    {
+        "ScopusComOrgSourcesID": 113,
+        "ScopusComOrgID": 1,
+        "SourceName": "Sunway University",
+        "TotalDocs": 94
+    },
+    {
+        "ScopusComOrgSourcesID": 114,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Pendidikan Indonesia",
+        "TotalDocs": 97
+    },
+    {
+        "ScopusComOrgSourcesID": 115,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universiti Brunei Darussalam",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 116,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Andalas",
+        "TotalDocs": 282
+    },
+    {
+        "ScopusComOrgSourcesID": 117,
+        "ScopusComOrgID": 1,
+        "SourceName": "University of the Philippines Manila",
+        "TotalDocs": 119
+    },
+    {
+        "ScopusComOrgSourcesID": 118,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Udayana",
+        "TotalDocs": 334
+    },
+    {
+        "ScopusComOrgSourcesID": 119,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Indonesia, RSUPN Dr. Cipto Mangunkusumo",
+        "TotalDocs": 4512
+    },
+    {
+        "ScopusComOrgSourcesID": 120,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Sriwijaya",
+        "TotalDocs": 168
+    },
+    {
+        "ScopusComOrgSourcesID": 121,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Negeri Jakarta",
+        "TotalDocs": 279
+    },
+    {
+        "ScopusComOrgSourcesID": 122,
+        "ScopusComOrgID": 1,
+        "SourceName": "Hanoi Medical University",
+        "TotalDocs": 94
+    },
+    {
+        "ScopusComOrgSourcesID": 123,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Riau",
+        "TotalDocs": 106
+    },
+    {
+        "ScopusComOrgSourcesID": 124,
+        "ScopusComOrgID": 1,
+        "SourceName": "Dr. Soetomo General Hospital",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 125,
+        "ScopusComOrgID": 1,
+        "SourceName": "Oxford University Clinical Research Unit",
+        "TotalDocs": 193
+    },
+    {
+        "ScopusComOrgSourcesID": 126,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+        "TotalDocs": 194
+    },
+    {
+        "ScopusComOrgSourcesID": 127,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Trisakti",
+        "TotalDocs": 243
+    },
+    {
+        "ScopusComOrgSourcesID": 128,
+        "ScopusComOrgID": 1,
+        "SourceName": "Badan Tenaga Nuklir Nasional Indonesia",
+        "TotalDocs": 239
+    },
+    {
+        "ScopusComOrgSourcesID": 129,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Pelita Harapan",
+        "TotalDocs": 187
+    },
+    {
+        "ScopusComOrgSourcesID": 130,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Sam Ratulangi",
+        "TotalDocs": 128
+    },
+    {
+        "ScopusComOrgSourcesID": 131,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Katolik Indonesia Atma Jaya",
+        "TotalDocs": 259
+    },
+    {
+        "ScopusComOrgSourcesID": 132,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Sultan Ageng Tirtayasa",
+        "TotalDocs": 132
+    },
+    {
+        "ScopusComOrgSourcesID": 133,
+        "ScopusComOrgID": 1,
+        "SourceName": "Badan Pengkajian dan Penerapan Teknologi",
+        "TotalDocs": 292
+    },
+    {
+        "ScopusComOrgSourcesID": 134,
+        "ScopusComOrgID": 1,
+        "SourceName": "Kementerian Kesehatan Republik Indonesia",
+        "TotalDocs": 321
+    },
+    {
+        "ScopusComOrgSourcesID": 135,
+        "ScopusComOrgID": 1,
+        "SourceName": "Fakultas Ekonomi dan Bisnis, Universitas Indonesia",
+        "TotalDocs": 1227
+    },
+    {
+        "ScopusComOrgSourcesID": 136,
+        "ScopusComOrgID": 1,
+        "SourceName": "Hasan Sadikin Hospital",
+        "TotalDocs": 112
+    },
+    {
+        "ScopusComOrgSourcesID": 137,
+        "ScopusComOrgID": 1,
+        "SourceName": "Indonesia Defense University",
+        "TotalDocs": 103
+    },
+    {
+        "ScopusComOrgSourcesID": 138,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Pembangunan Nasional Veteran Jakarta",
+        "TotalDocs": 115
+    },
+    {
+        "ScopusComOrgSourcesID": 139,
+        "ScopusComOrgID": 1,
+        "SourceName": "Badan Penelitian Dan Pengembangan Kesehatan, Kementerian Kesehatan Republik Indonesia",
+        "TotalDocs": 130
+    },
+    {
+        "ScopusComOrgSourcesID": 140,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Kristen Indonesia",
+        "TotalDocs": 104
+    },
+    {
+        "ScopusComOrgSourcesID": 141,
+        "ScopusComOrgID": 1,
+        "SourceName": "Eijkman Institute for Molecular Biology",
+        "TotalDocs": 190
+    },
+    {
+        "ScopusComOrgSourcesID": 142,
+        "ScopusComOrgID": 1,
+        "SourceName": "Politeknik Negeri Jakarta",
+        "TotalDocs": 178
+    },
+    {
+        "ScopusComOrgSourcesID": 143,
+        "ScopusComOrgID": 1,
+        "SourceName": "Pusat Jantung Nasional Harapan Kita",
+        "TotalDocs": 471
+    },
+    {
+        "ScopusComOrgSourcesID": 144,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Pancasila",
+        "TotalDocs": 130
+    },
+    {
+        "ScopusComOrgSourcesID": 145,
+        "ScopusComOrgID": 1,
+        "SourceName": "Universitas Muhammadiyah Prof. Dr. HAMKA",
+        "TotalDocs": 102
+    },
+    {
+        "ScopusComOrgSourcesID": 146,
+        "ScopusComOrgID": 1,
+        "SourceName": "Pertamina, Jakarta",
+        "TotalDocs": 97
+    },
+    {
+        "ScopusComOrgSourcesID": 147,
+        "ScopusComOrgID": 1,
+        "SourceName": "YARSI University",
+        "TotalDocs": 109
+    },
+    {
+        "ScopusComOrgSourcesID": 148,
+        "ScopusComOrgID": 1,
+        "SourceName": "RSUP Persahabatan",
+        "TotalDocs": 275
+    },
+    {
+        "ScopusComOrgSourcesID": 149,
+        "ScopusComOrgID": 1,
+        "SourceName": "Rumah Sakit Kanker Dharmais",
+        "TotalDocs": 156
+    },
+    {
+        "ScopusComOrgSourcesID": 150,
+        "ScopusComOrgID": 1,
+        "SourceName": "Rumah Sakit Universitas Indonesia",
+        "TotalDocs": 226
+    },
+    {
+        "ScopusComOrgSourcesID": 1,
+        "ScopusComOrgID": 2,
+        "SourceName": "CNRS Centre National de la Recherche Scientifique",
+        "TotalDocs": 95
+    },
+    {
+        "ScopusComOrgSourcesID": 2,
+        "ScopusComOrgID": 2,
+        "SourceName": "Harvard Medical School",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 3,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Tokyo",
+        "TotalDocs": 114
+    },
+    {
+        "ScopusComOrgSourcesID": 4,
+        "ScopusComOrgID": 2,
+        "SourceName": "University of Oxford",
+        "TotalDocs": 137
+    },
+    {
+        "ScopusComOrgSourcesID": 5,
+        "ScopusComOrgID": 2,
+        "SourceName": "University of Washington",
+        "TotalDocs": 65
+    },
+    {
+        "ScopusComOrgSourcesID": 6,
+        "ScopusComOrgID": 2,
+        "SourceName": "University College London",
+        "TotalDocs": 91
+    },
+    {
+        "ScopusComOrgSourcesID": 7,
+        "ScopusComOrgID": 2,
+        "SourceName": "Imperial College London",
+        "TotalDocs": 100
+    },
+    {
+        "ScopusComOrgSourcesID": 8,
+        "ScopusComOrgID": 2,
+        "SourceName": "Kyoto University",
+        "TotalDocs": 129
+    },
+    {
+        "ScopusComOrgSourcesID": 9,
+        "ScopusComOrgID": 2,
+        "SourceName": "University of Melbourne",
+        "TotalDocs": 282
+    },
+    {
+        "ScopusComOrgSourcesID": 10,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Sydney",
+        "TotalDocs": 136
+    },
+    {
+        "ScopusComOrgSourcesID": 11,
+        "ScopusComOrgID": 2,
+        "SourceName": "National University of Singapore",
+        "TotalDocs": 167
+    },
+    {
+        "ScopusComOrgSourcesID": 12,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Queensland",
+        "TotalDocs": 180
+    },
+    {
+        "ScopusComOrgSourcesID": 13,
+        "ScopusComOrgID": 2,
+        "SourceName": "KU Leuven",
+        "TotalDocs": 62
+    },
+    {
+        "ScopusComOrgSourcesID": 14,
+        "ScopusComOrgID": 2,
+        "SourceName": "Monash University",
+        "TotalDocs": 143
+    },
+    {
+        "ScopusComOrgSourcesID": 15,
+        "ScopusComOrgID": 2,
+        "SourceName": "Johns Hopkins University",
+        "TotalDocs": 61
+    },
+    {
+        "ScopusComOrgSourcesID": 16,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Osaka",
+        "TotalDocs": 56
+    },
+    {
+        "ScopusComOrgSourcesID": 17,
+        "ScopusComOrgID": 2,
+        "SourceName": "UNSW Sydney",
+        "TotalDocs": 113
+    },
+    {
+        "ScopusComOrgSourcesID": 18,
+        "ScopusComOrgID": 2,
+        "SourceName": "King's College London",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 19,
+        "ScopusComOrgID": 2,
+        "SourceName": "Tohoku University",
+        "TotalDocs": 55
+    },
+    {
+        "ScopusComOrgSourcesID": 20,
+        "ScopusComOrgID": 2,
+        "SourceName": "Harvard University",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 21,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Edinburgh",
+        "TotalDocs": 82
+    },
+    {
+        "ScopusComOrgSourcesID": 22,
+        "ScopusComOrgID": 2,
+        "SourceName": "Karolinska Institutet",
+        "TotalDocs": 68
+    },
+    {
+        "ScopusComOrgSourcesID": 23,
+        "ScopusComOrgID": 2,
+        "SourceName": "Institute of Science Tokyo",
+        "TotalDocs": 60
+    },
+    {
+        "ScopusComOrgSourcesID": 24,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiteit van Amsterdam",
+        "TotalDocs": 76
+    },
+    {
+        "ScopusComOrgSourcesID": 25,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiteit Gent",
+        "TotalDocs": 54
+    },
+    {
+        "ScopusComOrgSourcesID": 26,
+        "ScopusComOrgID": 2,
+        "SourceName": "Nanyang Technological University",
+        "TotalDocs": 59
+    },
+    {
+        "ScopusComOrgSourcesID": 27,
+        "ScopusComOrgID": 2,
+        "SourceName": "National Taiwan University",
+        "TotalDocs": 80
+    },
+    {
+        "ScopusComOrgSourcesID": 28,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiteit Utrecht",
+        "TotalDocs": 71
+    },
+    {
+        "ScopusComOrgSourcesID": 29,
+        "ScopusComOrgID": 2,
+        "SourceName": "University of Leeds",
+        "TotalDocs": 70
+    },
+    {
+        "ScopusComOrgSourcesID": 30,
+        "ScopusComOrgID": 2,
+        "SourceName": "The Australian National University",
+        "TotalDocs": 117
+    },
+    {
+        "ScopusComOrgSourcesID": 31,
+        "ScopusComOrgID": 2,
+        "SourceName": "Rijksuniversiteit Groningen",
+        "TotalDocs": 194
+    },
+    {
+        "ScopusComOrgSourcesID": 32,
+        "ScopusComOrgID": 2,
+        "SourceName": "Kyushu University",
+        "TotalDocs": 249
+    },
+    {
+        "ScopusComOrgSourcesID": 33,
+        "ScopusComOrgID": 2,
+        "SourceName": "Nagoya University",
+        "TotalDocs": 98
+    },
+    {
+        "ScopusComOrgSourcesID": 34,
+        "ScopusComOrgID": 2,
+        "SourceName": "Hokkaido University",
+        "TotalDocs": 145
+    },
+    {
+        "ScopusComOrgSourcesID": 35,
+        "ScopusComOrgID": 2,
+        "SourceName": "Chinese University of Hong Kong",
+        "TotalDocs": 53
+    },
+    {
+        "ScopusComOrgSourcesID": 36,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Western Australia",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 37,
+        "ScopusComOrgID": 2,
+        "SourceName": "King Saud University",
+        "TotalDocs": 82
+    },
+    {
+        "ScopusComOrgSourcesID": 38,
+        "ScopusComOrgID": 2,
+        "SourceName": "The University of Adelaide",
+        "TotalDocs": 62
+    },
+    {
+        "ScopusComOrgSourcesID": 39,
+        "ScopusComOrgID": 2,
+        "SourceName": "Wageningen University & Research",
+        "TotalDocs": 84
+    },
+    {
+        "ScopusComOrgSourcesID": 40,
+        "ScopusComOrgID": 2,
+        "SourceName": "Vrije Universiteit Amsterdam",
+        "TotalDocs": 69
+    },
+    {
+        "ScopusComOrgSourcesID": 41,
+        "ScopusComOrgID": 2,
+        "SourceName": "Erasmus MC",
+        "TotalDocs": 59
+    },
+    {
+        "ScopusComOrgSourcesID": 42,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiteit Leiden",
+        "TotalDocs": 53
+    },
+    {
+        "ScopusComOrgSourcesID": 43,
+        "ScopusComOrgID": 2,
+        "SourceName": "National Cheng Kung University",
+        "TotalDocs": 65
+    },
+    {
+        "ScopusComOrgSourcesID": 44,
+        "ScopusComOrgID": 2,
+        "SourceName": "Hiroshima University",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 45,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Malaya",
+        "TotalDocs": 186
+    },
+    {
+        "ScopusComOrgSourcesID": 46,
+        "ScopusComOrgID": 2,
+        "SourceName": "King Abdulaziz University",
+        "TotalDocs": 56
+    },
+    {
+        "ScopusComOrgSourcesID": 47,
+        "ScopusComOrgID": 2,
+        "SourceName": "Keio University",
+        "TotalDocs": 71
+    },
+    {
+        "ScopusComOrgSourcesID": 48,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitair Medisch Centrum Groningen",
+        "TotalDocs": 144
+    },
+    {
+        "ScopusComOrgSourcesID": 49,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Kebangsaan Malaysia",
+        "TotalDocs": 92
+    },
+    {
+        "ScopusComOrgSourcesID": 50,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Putra Malaysia",
+        "TotalDocs": 185
+    },
+    {
+        "ScopusComOrgSourcesID": 51,
+        "ScopusComOrgID": 2,
+        "SourceName": "London School of Hygiene & Tropical Medicine",
+        "TotalDocs": 124
+    },
+    {
+        "ScopusComOrgSourcesID": 52,
+        "ScopusComOrgID": 2,
+        "SourceName": "Umeå Universitet",
+        "TotalDocs": 86
+    },
+    {
+        "ScopusComOrgSourcesID": 53,
+        "ScopusComOrgID": 2,
+        "SourceName": "Mahidol University",
+        "TotalDocs": 91
+    },
+    {
+        "ScopusComOrgSourcesID": 54,
+        "ScopusComOrgID": 2,
+        "SourceName": "Chiba University",
+        "TotalDocs": 73
+    },
+    {
+        "ScopusComOrgSourcesID": 55,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Sains Malaysia",
+        "TotalDocs": 133
+    },
+    {
+        "ScopusComOrgSourcesID": 56,
+        "ScopusComOrgID": 2,
+        "SourceName": "Chulalongkorn University",
+        "TotalDocs": 95
+    },
+    {
+        "ScopusComOrgSourcesID": 57,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Teknologi Malaysia",
+        "TotalDocs": 119
+    },
+    {
+        "ScopusComOrgSourcesID": 58,
+        "ScopusComOrgID": 2,
+        "SourceName": "Amsterdam UMC - Vrije Universiteit Amsterdam",
+        "TotalDocs": 71
+    },
+    {
+        "ScopusComOrgSourcesID": 59,
+        "ScopusComOrgID": 2,
+        "SourceName": "Kobe University",
+        "TotalDocs": 92
+    },
+    {
+        "ScopusComOrgSourcesID": 60,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Indonesia",
+        "TotalDocs": 684
+    },
+    {
+        "ScopusComOrgSourcesID": 61,
+        "ScopusComOrgID": 2,
+        "SourceName": "Organisation Mondiale de la Santé",
+        "TotalDocs": 84
+    },
+    {
+        "ScopusComOrgSourcesID": 62,
+        "ScopusComOrgID": 2,
+        "SourceName": "James Cook University",
+        "TotalDocs": 55
+    },
+    {
+        "ScopusComOrgSourcesID": 63,
+        "ScopusComOrgID": 2,
+        "SourceName": "National Taiwan University of Science and Technology",
+        "TotalDocs": 69
+    },
+    {
+        "ScopusComOrgSourcesID": 64,
+        "ScopusComOrgID": 2,
+        "SourceName": "Tokyo University of Agriculture and Technology",
+        "TotalDocs": 63
+    },
+    {
+        "ScopusComOrgSourcesID": 65,
+        "ScopusComOrgID": 2,
+        "SourceName": "Taipei Medical University",
+        "TotalDocs": 279
+    },
+    {
+        "ScopusComOrgSourcesID": 66,
+        "ScopusComOrgID": 2,
+        "SourceName": "Institut Teknologi Bandung",
+        "TotalDocs": 598
+    },
+    {
+        "ScopusComOrgSourcesID": 67,
+        "ScopusComOrgID": 2,
+        "SourceName": "Gifu University",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 68,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Airlangga",
+        "TotalDocs": 771
+    },
+    {
+        "ScopusComOrgSourcesID": 69,
+        "ScopusComOrgID": 2,
+        "SourceName": "Royal Children's Hospital, Melbourne",
+        "TotalDocs": 64
+    },
+    {
+        "ScopusComOrgSourcesID": 70,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Teknologi PETRONAS",
+        "TotalDocs": 56
+    },
+    {
+        "ScopusComOrgSourcesID": 71,
+        "ScopusComOrgID": 2,
+        "SourceName": "International Islamic University Malaysia",
+        "TotalDocs": 67
+    },
+    {
+        "ScopusComOrgSourcesID": 72,
+        "ScopusComOrgID": 2,
+        "SourceName": "Nuffield Department of Medicine",
+        "TotalDocs": 88
+    },
+    {
+        "ScopusComOrgSourcesID": 73,
+        "ScopusComOrgID": 2,
+        "SourceName": "Badan Riset dan Inovasi Nasional",
+        "TotalDocs": 1511
+    },
+    {
+        "ScopusComOrgSourcesID": 74,
+        "ScopusComOrgID": 2,
+        "SourceName": "Murdoch Children's Research Institute",
+        "TotalDocs": 70
+    },
+    {
+        "ScopusComOrgSourcesID": 75,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universidad de Cádiz",
+        "TotalDocs": 59
+    },
+    {
+        "ScopusComOrgSourcesID": 76,
+        "ScopusComOrgID": 2,
+        "SourceName": "IPB University",
+        "TotalDocs": 465
+    },
+    {
+        "ScopusComOrgSourcesID": 77,
+        "ScopusComOrgID": 2,
+        "SourceName": "Nara Institute of Science and Technology",
+        "TotalDocs": 74
+    },
+    {
+        "ScopusComOrgSourcesID": 78,
+        "ScopusComOrgID": 2,
+        "SourceName": "Institut Teknologi Sepuluh Nopember",
+        "TotalDocs": 238
+    },
+    {
+        "ScopusComOrgSourcesID": 79,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Diponegoro",
+        "TotalDocs": 549
+    },
+    {
+        "ScopusComOrgSourcesID": 80,
+        "ScopusComOrgID": 2,
+        "SourceName": "Brawijaya University",
+        "TotalDocs": 386
+    },
+    {
+        "ScopusComOrgSourcesID": 81,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Padjadjaran",
+        "TotalDocs": 388
+    },
+    {
+        "ScopusComOrgSourcesID": 82,
+        "ScopusComOrgID": 2,
+        "SourceName": "Hasanuddin University",
+        "TotalDocs": 353
+    },
+    {
+        "ScopusComOrgSourcesID": 83,
+        "ScopusComOrgID": 2,
+        "SourceName": "Bina Nusantara University",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 84,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Sebelas Maret",
+        "TotalDocs": 887
+    },
+    {
+        "ScopusComOrgSourcesID": 85,
+        "ScopusComOrgID": 2,
+        "SourceName": "Graduate School of Medicine",
+        "TotalDocs": 81
+    },
+    {
+        "ScopusComOrgSourcesID": 86,
+        "ScopusComOrgID": 2,
+        "SourceName": "Université Paris 1 Panthéon-Sorbonne",
+        "TotalDocs": 55
+    },
+    {
+        "ScopusComOrgSourcesID": 87,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Sumatera Utara",
+        "TotalDocs": 241
+    },
+    {
+        "ScopusComOrgSourcesID": 88,
+        "ScopusComOrgID": 2,
+        "SourceName": "Department of Paediatrics",
+        "TotalDocs": 54
+    },
+    {
+        "ScopusComOrgSourcesID": 89,
+        "ScopusComOrgID": 2,
+        "SourceName": "Melbourne School of Population and Global Health",
+        "TotalDocs": 68
+    },
+    {
+        "ScopusComOrgSourcesID": 90,
+        "ScopusComOrgID": 2,
+        "SourceName": "College of Medicine",
+        "TotalDocs": 126
+    },
+    {
+        "ScopusComOrgSourcesID": 91,
+        "ScopusComOrgID": 2,
+        "SourceName": "Lembaga Ilmu Pengetahuan Indonesia",
+        "TotalDocs": 320
+    },
+    {
+        "ScopusComOrgSourcesID": 92,
+        "ScopusComOrgID": 2,
+        "SourceName": "Telkom University",
+        "TotalDocs": 212
+    },
+    {
+        "ScopusComOrgSourcesID": 93,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Teknologi Malaysia Kuala Lumpur",
+        "TotalDocs": 85
+    },
+    {
+        "ScopusComOrgSourcesID": 94,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Syiah Kuala",
+        "TotalDocs": 186
+    },
+    {
+        "ScopusComOrgSourcesID": 95,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Negeri Malang",
+        "TotalDocs": 103
+    },
+    {
+        "ScopusComOrgSourcesID": 96,
+        "ScopusComOrgID": 2,
+        "SourceName": "School of Medicine",
+        "TotalDocs": 86
+    },
+    {
+        "ScopusComOrgSourcesID": 97,
+        "ScopusComOrgID": 2,
+        "SourceName": "Taipei Medical University Hospital",
+        "TotalDocs": 86
+    },
+    {
+        "ScopusComOrgSourcesID": 98,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Pendidikan Indonesia",
+        "TotalDocs": 89
+    },
+    {
+        "ScopusComOrgSourcesID": 99,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universiti Brunei Darussalam",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 100,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Andalas",
+        "TotalDocs": 204
+    },
+    {
+        "ScopusComOrgSourcesID": 101,
+        "ScopusComOrgID": 2,
+        "SourceName": "Taipei Municipal Wan-Fang Hospital",
+        "TotalDocs": 84
+    },
+    {
+        "ScopusComOrgSourcesID": 102,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Negeri Yogyakarta",
+        "TotalDocs": 323
+    },
+    {
+        "ScopusComOrgSourcesID": 103,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Udayana",
+        "TotalDocs": 267
+    },
+    {
+        "ScopusComOrgSourcesID": 104,
+        "ScopusComOrgID": 2,
+        "SourceName": "Taipei Medical University Shuang-Ho Hospital",
+        "TotalDocs": 85
+    },
+    {
+        "ScopusComOrgSourcesID": 105,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Indonesia, RSUPN Dr. Cipto Mangunkusumo",
+        "TotalDocs": 184
+    },
+    {
+        "ScopusComOrgSourcesID": 106,
+        "ScopusComOrgID": 2,
+        "SourceName": "Menzies School of Health Research",
+        "TotalDocs": 74
+    },
+    {
+        "ScopusComOrgSourcesID": 107,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Sriwijaya",
+        "TotalDocs": 138
+    },
+    {
+        "ScopusComOrgSourcesID": 108,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Negeri Semarang",
+        "TotalDocs": 188
+    },
+    {
+        "ScopusComOrgSourcesID": 109,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Jember",
+        "TotalDocs": 134
+    },
+    {
+        "ScopusComOrgSourcesID": 110,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Muhammadiyah Yogyakarta",
+        "TotalDocs": 483
+    },
+    {
+        "ScopusComOrgSourcesID": 111,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Negeri Padang",
+        "TotalDocs": 67
+    },
+    {
+        "ScopusComOrgSourcesID": 112,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Islam Indonesia",
+        "TotalDocs": 428
+    },
+    {
+        "ScopusComOrgSourcesID": 113,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Lampung",
+        "TotalDocs": 159
+    },
+    {
+        "ScopusComOrgSourcesID": 114,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Riau",
+        "TotalDocs": 85
+    },
+    {
+        "ScopusComOrgSourcesID": 115,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Jenderal Soedirman",
+        "TotalDocs": 258
+    },
+    {
+        "ScopusComOrgSourcesID": 116,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Ahmad Dahlan",
+        "TotalDocs": 331
+    },
+    {
+        "ScopusComOrgSourcesID": 117,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Muhammadiyah Surakarta",
+        "TotalDocs": 172
+    },
+    {
+        "ScopusComOrgSourcesID": 118,
+        "ScopusComOrgID": 2,
+        "SourceName": "Dr. Soetomo General Hospital",
+        "TotalDocs": 83
+    },
+    {
+        "ScopusComOrgSourcesID": 119,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Lambung Mangkurat",
+        "TotalDocs": 175
+    },
+    {
+        "ScopusComOrgSourcesID": 120,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Halu Oleo",
+        "TotalDocs": 147
+    },
+    {
+        "ScopusComOrgSourcesID": 121,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Mulawarman",
+        "TotalDocs": 118
+    },
+    {
+        "ScopusComOrgSourcesID": 122,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Tadulako",
+        "TotalDocs": 76
+    },
+    {
+        "ScopusComOrgSourcesID": 123,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Muhammadiyah Malang",
+        "TotalDocs": 61
+    },
+    {
+        "ScopusComOrgSourcesID": 124,
+        "ScopusComOrgID": 2,
+        "SourceName": "Badan Tenaga Nuklir Nasional Indonesia",
+        "TotalDocs": 110
+    },
+    {
+        "ScopusComOrgSourcesID": 125,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Sam Ratulangi",
+        "TotalDocs": 93
+    },
+    {
+        "ScopusComOrgSourcesID": 126,
+        "ScopusComOrgID": 2,
+        "SourceName": "University of Mataram",
+        "TotalDocs": 98
+    },
+    {
+        "ScopusComOrgSourcesID": 127,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Katolik Indonesia Atma Jaya",
+        "TotalDocs": 77
+    },
+    {
+        "ScopusComOrgSourcesID": 128,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Bengkulu",
+        "TotalDocs": 111
+    },
+    {
+        "ScopusComOrgSourcesID": 129,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Jambi",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 130,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Tanjungpura",
+        "TotalDocs": 118
+    },
+    {
+        "ScopusComOrgSourcesID": 131,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Surabaya",
+        "TotalDocs": 57
+    },
+    {
+        "ScopusComOrgSourcesID": 132,
+        "ScopusComOrgID": 2,
+        "SourceName": "Institut Teknologi Sumatera (ITERA)",
+        "TotalDocs": 174
+    },
+    {
+        "ScopusComOrgSourcesID": 133,
+        "ScopusComOrgID": 2,
+        "SourceName": "Kementerian Kesehatan Republik Indonesia",
+        "TotalDocs": 124
+    },
+    {
+        "ScopusComOrgSourcesID": 134,
+        "ScopusComOrgID": 2,
+        "SourceName": "Satya Wacana Christian University",
+        "TotalDocs": 87
+    },
+    {
+        "ScopusComOrgSourcesID": 135,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Pattimura",
+        "TotalDocs": 60
+    },
+    {
+        "ScopusComOrgSourcesID": 136,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Islam Negeri Sunan Kalijaga, Yogyakarta",
+        "TotalDocs": 131
+    },
+    {
+        "ScopusComOrgSourcesID": 137,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Islam Sultan Agung Semarang",
+        "TotalDocs": 74
+    },
+    {
+        "ScopusComOrgSourcesID": 138,
+        "ScopusComOrgID": 2,
+        "SourceName": "Laboratoire de Géographie Physique, Environnements Quaternaires et Actuels",
+        "TotalDocs": 57
+    },
+    {
+        "ScopusComOrgSourcesID": 139,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Atma Jaya Yogyakarta",
+        "TotalDocs": 89
+    },
+    {
+        "ScopusComOrgSourcesID": 140,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Sanata Dharma",
+        "TotalDocs": 141
+    },
+    {
+        "ScopusComOrgSourcesID": 141,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Pembangunan Nasional “Veteran” Yogyakarta",
+        "TotalDocs": 88
+    },
+    {
+        "ScopusComOrgSourcesID": 142,
+        "ScopusComOrgID": 2,
+        "SourceName": "PT Perusahaan Listrik Negara (Persero)",
+        "TotalDocs": 54
+    },
+    {
+        "ScopusComOrgSourcesID": 143,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Nusa Cendana",
+        "TotalDocs": 67
+    },
+    {
+        "ScopusComOrgSourcesID": 144,
+        "ScopusComOrgID": 2,
+        "SourceName": "Ministry of Agriculture, Indonesia",
+        "TotalDocs": 69
+    },
+    {
+        "ScopusComOrgSourcesID": 145,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Muhammadiyah Purwokerto",
+        "TotalDocs": 84
+    },
+    {
+        "ScopusComOrgSourcesID": 146,
+        "ScopusComOrgID": 2,
+        "SourceName": "Universitas Kristen Duta Wacana",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 147,
+        "ScopusComOrgID": 2,
+        "SourceName": "Ministry of Public Works, Jakarta",
+        "TotalDocs": 104
+    },
+    {
+        "ScopusComOrgSourcesID": 148,
+        "ScopusComOrgID": 2,
+        "SourceName": "Dr. Sardjito Hospital",
+        "TotalDocs": 86
+    },
+    {
+        "ScopusComOrgSourcesID": 149,
+        "ScopusComOrgID": 2,
+        "SourceName": "Dr. Sardjito General Hospital",
+        "TotalDocs": 81
+    },
+    {
+        "ScopusComOrgSourcesID": 150,
+        "ScopusComOrgID": 2,
+        "SourceName": "Ministry of Public Works and Housing",
+        "TotalDocs": 76
+    },
+    {
+        "ScopusComOrgSourcesID": 1,
+        "ScopusComOrgID": 3,
+        "SourceName": "Ministry of Education of the People's Republic of China",
+        "TotalDocs": 37
+    },
+    {
+        "ScopusComOrgSourcesID": 2,
+        "ScopusComOrgID": 3,
+        "SourceName": "CNRS Centre National de la Recherche Scientifique",
+        "TotalDocs": 152
+    },
+    {
+        "ScopusComOrgSourcesID": 3,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Tokyo",
+        "TotalDocs": 257
+    },
+    {
+        "ScopusComOrgSourcesID": 4,
+        "ScopusComOrgID": 3,
+        "SourceName": "University of California, Berkeley",
+        "TotalDocs": 59
+    },
+    {
+        "ScopusComOrgSourcesID": 5,
+        "ScopusComOrgID": 3,
+        "SourceName": "University College London",
+        "TotalDocs": 61
+    },
+    {
+        "ScopusComOrgSourcesID": 6,
+        "ScopusComOrgID": 3,
+        "SourceName": "University of Cambridge",
+        "TotalDocs": 72
+    },
+    {
+        "ScopusComOrgSourcesID": 7,
+        "ScopusComOrgID": 3,
+        "SourceName": "Imperial College London",
+        "TotalDocs": 45
+    },
+    {
+        "ScopusComOrgSourcesID": 8,
+        "ScopusComOrgID": 3,
+        "SourceName": "Kyoto University",
+        "TotalDocs": 148
+    },
+    {
+        "ScopusComOrgSourcesID": 9,
+        "ScopusComOrgID": 3,
+        "SourceName": "University of Melbourne",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 10,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Sydney",
+        "TotalDocs": 48
+    },
+    {
+        "ScopusComOrgSourcesID": 11,
+        "ScopusComOrgID": 3,
+        "SourceName": "National University of Singapore",
+        "TotalDocs": 129
+    },
+    {
+        "ScopusComOrgSourcesID": 12,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Queensland",
+        "TotalDocs": 110
+    },
+    {
+        "ScopusComOrgSourcesID": 13,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Osaka",
+        "TotalDocs": 157
+    },
+    {
+        "ScopusComOrgSourcesID": 14,
+        "ScopusComOrgID": 3,
+        "SourceName": "UNSW Sydney",
+        "TotalDocs": 54
+    },
+    {
+        "ScopusComOrgSourcesID": 15,
+        "ScopusComOrgID": 3,
+        "SourceName": "Tohoku University",
+        "TotalDocs": 127
+    },
+    {
+        "ScopusComOrgSourcesID": 16,
+        "ScopusComOrgID": 3,
+        "SourceName": "University of Maryland, College Park",
+        "TotalDocs": 41
+    },
+    {
+        "ScopusComOrgSourcesID": 17,
+        "ScopusComOrgID": 3,
+        "SourceName": "Institute of Science Tokyo",
+        "TotalDocs": 211
+    },
+    {
+        "ScopusComOrgSourcesID": 18,
+        "ScopusComOrgID": 3,
+        "SourceName": "Seoul National University",
+        "TotalDocs": 47
+    },
+    {
+        "ScopusComOrgSourcesID": 19,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiteit van Amsterdam",
+        "TotalDocs": 46
+    },
+    {
+        "ScopusComOrgSourcesID": 20,
+        "ScopusComOrgID": 3,
+        "SourceName": "Nanyang Technological University",
+        "TotalDocs": 136
+    },
+    {
+        "ScopusComOrgSourcesID": 21,
+        "ScopusComOrgID": 3,
+        "SourceName": "National Taiwan University",
+        "TotalDocs": 37
+    },
+    {
+        "ScopusComOrgSourcesID": 22,
+        "ScopusComOrgID": 3,
+        "SourceName": "The Australian National University",
+        "TotalDocs": 93
+    },
+    {
+        "ScopusComOrgSourcesID": 23,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Sheffield",
+        "TotalDocs": 38
+    },
+    {
+        "ScopusComOrgSourcesID": 24,
+        "ScopusComOrgID": 3,
+        "SourceName": "Rijksuniversiteit Groningen",
+        "TotalDocs": 201
+    },
+    {
+        "ScopusComOrgSourcesID": 25,
+        "ScopusComOrgID": 3,
+        "SourceName": "Delft University of Technology",
+        "TotalDocs": 59
+    },
+    {
+        "ScopusComOrgSourcesID": 26,
+        "ScopusComOrgID": 3,
+        "SourceName": "Kyushu University",
+        "TotalDocs": 155
+    },
+    {
+        "ScopusComOrgSourcesID": 27,
+        "ScopusComOrgID": 3,
+        "SourceName": "Nagoya University",
+        "TotalDocs": 69
+    },
+    {
+        "ScopusComOrgSourcesID": 28,
+        "ScopusComOrgID": 3,
+        "SourceName": "Hokkaido University",
+        "TotalDocs": 71
+    },
+    {
+        "ScopusComOrgSourcesID": 29,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Western Australia",
+        "TotalDocs": 45
+    },
+    {
+        "ScopusComOrgSourcesID": 30,
+        "ScopusComOrgID": 3,
+        "SourceName": "Brown University",
+        "TotalDocs": 46
+    },
+    {
+        "ScopusComOrgSourcesID": 31,
+        "ScopusComOrgID": 3,
+        "SourceName": "University of Bern",
+        "TotalDocs": 35
+    },
+    {
+        "ScopusComOrgSourcesID": 32,
+        "ScopusComOrgID": 3,
+        "SourceName": "Wageningen University & Research",
+        "TotalDocs": 42
+    },
+    {
+        "ScopusComOrgSourcesID": 33,
+        "ScopusComOrgID": 3,
+        "SourceName": "Université de Toulouse",
+        "TotalDocs": 50
+    },
+    {
+        "ScopusComOrgSourcesID": 34,
+        "ScopusComOrgID": 3,
+        "SourceName": "Japan Science and Technology Agency",
+        "TotalDocs": 38
+    },
+    {
+        "ScopusComOrgSourcesID": 35,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universität Hamburg",
+        "TotalDocs": 40
+    },
+    {
+        "ScopusComOrgSourcesID": 36,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universität zu Köln",
+        "TotalDocs": 38
+    },
+    {
+        "ScopusComOrgSourcesID": 37,
+        "ScopusComOrgID": 3,
+        "SourceName": "National Institute of Advanced Industrial Science and Technology",
+        "TotalDocs": 35
+    },
+    {
+        "ScopusComOrgSourcesID": 38,
+        "ScopusComOrgID": 3,
+        "SourceName": "Hiroshima University",
+        "TotalDocs": 157
+    },
+    {
+        "ScopusComOrgSourcesID": 39,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Malaya",
+        "TotalDocs": 76
+    },
+    {
+        "ScopusComOrgSourcesID": 40,
+        "ScopusComOrgID": 3,
+        "SourceName": "Griffith University",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 41,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiteit Twente",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 42,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Kebangsaan Malaysia",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 43,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Putra Malaysia",
+        "TotalDocs": 76
+    },
+    {
+        "ScopusComOrgSourcesID": 44,
+        "ScopusComOrgID": 3,
+        "SourceName": "Waseda University",
+        "TotalDocs": 62
+    },
+    {
+        "ScopusComOrgSourcesID": 45,
+        "ScopusComOrgID": 3,
+        "SourceName": "The University of Newcastle, Australia",
+        "TotalDocs": 45
+    },
+    {
+        "ScopusComOrgSourcesID": 46,
+        "ScopusComOrgID": 3,
+        "SourceName": "Chiba University",
+        "TotalDocs": 81
+    },
+    {
+        "ScopusComOrgSourcesID": 47,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Sains Malaysia",
+        "TotalDocs": 99
+    },
+    {
+        "ScopusComOrgSourcesID": 48,
+        "ScopusComOrgID": 3,
+        "SourceName": "Chulalongkorn University",
+        "TotalDocs": 38
+    },
+    {
+        "ScopusComOrgSourcesID": 49,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Teknologi Malaysia",
+        "TotalDocs": 191
+    },
+    {
+        "ScopusComOrgSourcesID": 50,
+        "ScopusComOrgID": 3,
+        "SourceName": "Zhejiang University of Technology",
+        "TotalDocs": 37
+    },
+    {
+        "ScopusComOrgSourcesID": 51,
+        "ScopusComOrgID": 3,
+        "SourceName": "College of Computer, Mathematical, & Natural Sciences",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 52,
+        "ScopusComOrgID": 3,
+        "SourceName": "National Institute for Materials Science",
+        "TotalDocs": 56
+    },
+    {
+        "ScopusComOrgSourcesID": 53,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Teknologi MARA",
+        "TotalDocs": 80
+    },
+    {
+        "ScopusComOrgSourcesID": 54,
+        "ScopusComOrgID": 3,
+        "SourceName": "Kanazawa University",
+        "TotalDocs": 40
+    },
+    {
+        "ScopusComOrgSourcesID": 55,
+        "ScopusComOrgID": 3,
+        "SourceName": "Tokyo University of Science",
+        "TotalDocs": 41
+    },
+    {
+        "ScopusComOrgSourcesID": 56,
+        "ScopusComOrgID": 3,
+        "SourceName": "Japan Atomic Energy Agency",
+        "TotalDocs": 35
+    },
+    {
+        "ScopusComOrgSourcesID": 57,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Indonesia",
+        "TotalDocs": 520
+    },
+    {
+        "ScopusComOrgSourcesID": 58,
+        "ScopusComOrgID": 3,
+        "SourceName": "Kumamoto University",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 59,
+        "ScopusComOrgID": 3,
+        "SourceName": "King Abdullah University of Science and Technology",
+        "TotalDocs": 52
+    },
+    {
+        "ScopusComOrgSourcesID": 60,
+        "ScopusComOrgID": 3,
+        "SourceName": "National Taiwan University of Science and Technology",
+        "TotalDocs": 82
+    },
+    {
+        "ScopusComOrgSourcesID": 61,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Gadjah Mada",
+        "TotalDocs": 598
+    },
+    {
+        "ScopusComOrgSourcesID": 62,
+        "ScopusComOrgID": 3,
+        "SourceName": "Sejong University",
+        "TotalDocs": 55
+    },
+    {
+        "ScopusComOrgSourcesID": 63,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Airlangga",
+        "TotalDocs": 383
+    },
+    {
+        "ScopusComOrgSourcesID": 64,
+        "ScopusComOrgID": 3,
+        "SourceName": "Kyushu Institute of Technology",
+        "TotalDocs": 53
+    },
+    {
+        "ScopusComOrgSourcesID": 65,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Teknologi PETRONAS",
+        "TotalDocs": 83
+    },
+    {
+        "ScopusComOrgSourcesID": 66,
+        "ScopusComOrgID": 3,
+        "SourceName": "Institute of Industrial Science",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 67,
+        "ScopusComOrgID": 3,
+        "SourceName": "Badan Riset dan Inovasi Nasional",
+        "TotalDocs": 1412
+    },
+    {
+        "ScopusComOrgSourcesID": 68,
+        "ScopusComOrgID": 3,
+        "SourceName": "University of Fukui",
+        "TotalDocs": 47
+    },
+    {
+        "ScopusComOrgSourcesID": 69,
+        "ScopusComOrgID": 3,
+        "SourceName": "IPB University",
+        "TotalDocs": 473
+    },
+    {
+        "ScopusComOrgSourcesID": 70,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Malaysia Pahang Al-Sultan Abdullah",
+        "TotalDocs": 41
+    },
+    {
+        "ScopusComOrgSourcesID": 71,
+        "ScopusComOrgID": 3,
+        "SourceName": "Institut Teknologi Sepuluh Nopember",
+        "TotalDocs": 277
+    },
+    {
+        "ScopusComOrgSourcesID": 72,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Diponegoro",
+        "TotalDocs": 330
+    },
+    {
+        "ScopusComOrgSourcesID": 73,
+        "ScopusComOrgID": 3,
+        "SourceName": "Brawijaya University",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 74,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Padjadjaran",
+        "TotalDocs": 714
+    },
+    {
+        "ScopusComOrgSourcesID": 75,
+        "ScopusComOrgID": 3,
+        "SourceName": "Hasanuddin University",
+        "TotalDocs": 147
+    },
+    {
+        "ScopusComOrgSourcesID": 76,
+        "ScopusComOrgID": 3,
+        "SourceName": "Bina Nusantara University",
+        "TotalDocs": 217
+    },
+    {
+        "ScopusComOrgSourcesID": 77,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Sebelas Maret",
+        "TotalDocs": 237
+    },
+    {
+        "ScopusComOrgSourcesID": 78,
+        "ScopusComOrgID": 3,
+        "SourceName": "Japan Advanced Institute of Science and Technology",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 79,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Malaysia Terengganu",
+        "TotalDocs": 43
+    },
+    {
+        "ScopusComOrgSourcesID": 80,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Sumatera Utara",
+        "TotalDocs": 173
+    },
+    {
+        "ScopusComOrgSourcesID": 81,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universiti Teknikal Malaysia Melaka",
+        "TotalDocs": 35
+    },
+    {
+        "ScopusComOrgSourcesID": 82,
+        "ScopusComOrgID": 3,
+        "SourceName": "Lembaga Ilmu Pengetahuan Indonesia",
+        "TotalDocs": 602
+    },
+    {
+        "ScopusComOrgSourcesID": 83,
+        "ScopusComOrgID": 3,
+        "SourceName": "Telkom University",
+        "TotalDocs": 1354
+    },
+    {
+        "ScopusComOrgSourcesID": 84,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Syiah Kuala",
+        "TotalDocs": 158
+    },
+    {
+        "ScopusComOrgSourcesID": 85,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Negeri Malang",
+        "TotalDocs": 135
+    },
+    {
+        "ScopusComOrgSourcesID": 86,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Pendidikan Indonesia",
+        "TotalDocs": 483
+    },
+    {
+        "ScopusComOrgSourcesID": 87,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Andalas",
+        "TotalDocs": 184
+    },
+    {
+        "ScopusComOrgSourcesID": 88,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Udayana",
+        "TotalDocs": 96
+    },
+    {
+        "ScopusComOrgSourcesID": 89,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Sriwijaya",
+        "TotalDocs": 97
+    },
+    {
+        "ScopusComOrgSourcesID": 90,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Negeri Semarang",
+        "TotalDocs": 55
+    },
+    {
+        "ScopusComOrgSourcesID": 91,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Negeri Surabaya",
+        "TotalDocs": 42
+    },
+    {
+        "ScopusComOrgSourcesID": 92,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Jember",
+        "TotalDocs": 79
+    },
+    {
+        "ScopusComOrgSourcesID": 93,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Negeri Padang",
+        "TotalDocs": 100
+    },
+    {
+        "ScopusComOrgSourcesID": 94,
+        "ScopusComOrgID": 3,
+        "SourceName": "School of Industrial Technology",
+        "TotalDocs": 48
+    },
+    {
+        "ScopusComOrgSourcesID": 95,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Negeri Jakarta",
+        "TotalDocs": 108
+    },
+    {
+        "ScopusComOrgSourcesID": 96,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Islam Indonesia",
+        "TotalDocs": 43
+    },
+    {
+        "ScopusComOrgSourcesID": 97,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Lampung",
+        "TotalDocs": 115
+    },
+    {
+        "ScopusComOrgSourcesID": 98,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Riau",
+        "TotalDocs": 60
+    },
+    {
+        "ScopusComOrgSourcesID": 99,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Jenderal Soedirman",
+        "TotalDocs": 68
+    },
+    {
+        "ScopusComOrgSourcesID": 100,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Lambung Mangkurat",
+        "TotalDocs": 38
+    },
+    {
+        "ScopusComOrgSourcesID": 101,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Halu Oleo",
+        "TotalDocs": 92
+    },
+    {
+        "ScopusComOrgSourcesID": 102,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Mulawarman",
+        "TotalDocs": 61
+    },
+    {
+        "ScopusComOrgSourcesID": 103,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Islam Negeri Syarif Hidayatullah Jakarta",
+        "TotalDocs": 48
+    },
+    {
+        "ScopusComOrgSourcesID": 104,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Tadulako",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 105,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Trisakti",
+        "TotalDocs": 119
+    },
+    {
+        "ScopusComOrgSourcesID": 106,
+        "ScopusComOrgID": 3,
+        "SourceName": "Badan Tenaga Nuklir Nasional Indonesia",
+        "TotalDocs": 136
+    },
+    {
+        "ScopusComOrgSourcesID": 107,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Pelita Harapan",
+        "TotalDocs": 49
+    },
+    {
+        "ScopusComOrgSourcesID": 108,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Sam Ratulangi",
+        "TotalDocs": 38
+    },
+    {
+        "ScopusComOrgSourcesID": 109,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Katolik Indonesia Atma Jaya",
+        "TotalDocs": 46
+    },
+    {
+        "ScopusComOrgSourcesID": 110,
+        "ScopusComOrgID": 3,
+        "SourceName": "UIN Sunan Gunung Djati",
+        "TotalDocs": 240
+    },
+    {
+        "ScopusComOrgSourcesID": 111,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Bengkulu",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 112,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Negeri Medan",
+        "TotalDocs": 58
+    },
+    {
+        "ScopusComOrgSourcesID": 113,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Sultan Ageng Tirtayasa",
+        "TotalDocs": 48
+    },
+    {
+        "ScopusComOrgSourcesID": 114,
+        "ScopusComOrgID": 3,
+        "SourceName": "Badan Pengkajian dan Penerapan Teknologi",
+        "TotalDocs": 95
+    },
+    {
+        "ScopusComOrgSourcesID": 115,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Tanjungpura",
+        "TotalDocs": 81
+    },
+    {
+        "ScopusComOrgSourcesID": 116,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Mercu Buana",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 117,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Surabaya",
+        "TotalDocs": 43
+    },
+    {
+        "ScopusComOrgSourcesID": 118,
+        "ScopusComOrgID": 3,
+        "SourceName": "Bullard Laboratories",
+        "TotalDocs": 42
+    },
+    {
+        "ScopusComOrgSourcesID": 119,
+        "ScopusComOrgID": 3,
+        "SourceName": "Institut Teknologi Sumatera (ITERA)",
+        "TotalDocs": 470
+    },
+    {
+        "ScopusComOrgSourcesID": 120,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Pattimura",
+        "TotalDocs": 39
+    },
+    {
+        "ScopusComOrgSourcesID": 121,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Katolik Parahyangan",
+        "TotalDocs": 166
+    },
+    {
+        "ScopusComOrgSourcesID": 122,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Malikussaleh",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 123,
+        "ScopusComOrgID": 3,
+        "SourceName": "Nakhon Pathom Rajabhat University",
+        "TotalDocs": 52
+    },
+    {
+        "ScopusComOrgSourcesID": 124,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Dian Nuswantoro",
+        "TotalDocs": 40
+    },
+    {
+        "ScopusComOrgSourcesID": 125,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Kristen Maranatha",
+        "TotalDocs": 159
+    },
+    {
+        "ScopusComOrgSourcesID": 126,
+        "ScopusComOrgID": 3,
+        "SourceName": "State Polytechnic of Malang",
+        "TotalDocs": 40
+    },
+    {
+        "ScopusComOrgSourcesID": 127,
+        "ScopusComOrgID": 3,
+        "SourceName": "Lembaga Penerbangan dan Antariksa Nasional",
+        "TotalDocs": 138
+    },
+    {
+        "ScopusComOrgSourcesID": 128,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Pertamina",
+        "TotalDocs": 164
+    },
+    {
+        "ScopusComOrgSourcesID": 129,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Pembangunan Nasional “Veteran” Yogyakarta",
+        "TotalDocs": 45
+    },
+    {
+        "ScopusComOrgSourcesID": 130,
+        "ScopusComOrgID": 3,
+        "SourceName": "PT Perusahaan Listrik Negara (Persero)",
+        "TotalDocs": 302
+    },
+    {
+        "ScopusComOrgSourcesID": 131,
+        "ScopusComOrgID": 3,
+        "SourceName": "Politeknik Negeri Bandung",
+        "TotalDocs": 110
+    },
+    {
+        "ScopusComOrgSourcesID": 132,
+        "ScopusComOrgID": 3,
+        "SourceName": "Indonesia Defense University",
+        "TotalDocs": 66
+    },
+    {
+        "ScopusComOrgSourcesID": 133,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Widyatama",
+        "TotalDocs": 41
+    },
+    {
+        "ScopusComOrgSourcesID": 134,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Islam Bandung",
+        "TotalDocs": 54
+    },
+    {
+        "ScopusComOrgSourcesID": 135,
+        "ScopusComOrgID": 3,
+        "SourceName": "Pakuan University",
+        "TotalDocs": 39
+    },
+    {
+        "ScopusComOrgSourcesID": 136,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Jenderal Achmad Yani",
+        "TotalDocs": 158
+    },
+    {
+        "ScopusComOrgSourcesID": 137,
+        "ScopusComOrgID": 3,
+        "SourceName": "Sampoerna University",
+        "TotalDocs": 41
+    },
+    {
+        "ScopusComOrgSourcesID": 138,
+        "ScopusComOrgID": 3,
+        "SourceName": "President University",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 139,
+        "ScopusComOrgID": 3,
+        "SourceName": "Institut Teknologi Nasional Bandung",
+        "TotalDocs": 125
+    },
+    {
+        "ScopusComOrgSourcesID": 140,
+        "ScopusComOrgID": 3,
+        "SourceName": "Pertamina, Jakarta",
+        "TotalDocs": 72
+    },
+    {
+        "ScopusComOrgSourcesID": 141,
+        "ScopusComOrgID": 3,
+        "SourceName": "Ministry of Public Works, Jakarta",
+        "TotalDocs": 59
+    },
+    {
+        "ScopusComOrgSourcesID": 142,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Prasetiya Mulya",
+        "TotalDocs": 41
+    },
+    {
+        "ScopusComOrgSourcesID": 143,
+        "ScopusComOrgID": 3,
+        "SourceName": "Institut Teknologi Del",
+        "TotalDocs": 36
+    },
+    {
+        "ScopusComOrgSourcesID": 144,
+        "ScopusComOrgID": 3,
+        "SourceName": "Departemen Energi dan Sumber Daya Mineral Republic of Indonesia",
+        "TotalDocs": 86
+    },
+    {
+        "ScopusComOrgSourcesID": 145,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Sangga Buana",
+        "TotalDocs": 52
+    },
+    {
+        "ScopusComOrgSourcesID": 146,
+        "ScopusComOrgID": 3,
+        "SourceName": "Universitas Langlangbuana",
+        "TotalDocs": 69
+    },
+    {
+        "ScopusComOrgSourcesID": 147,
+        "ScopusComOrgID": 3,
+        "SourceName": "Kementerian Perindustrian, Indonesia",
+        "TotalDocs": 54
+    },
+    {
+        "ScopusComOrgSourcesID": 148,
+        "ScopusComOrgID": 3,
+        "SourceName": "Agency for Meteorology",
+        "TotalDocs": 68
+    },
+    {
+        "ScopusComOrgSourcesID": 149,
+        "ScopusComOrgID": 3,
+        "SourceName": "National Center for Sustainable Transportation Technology",
+        "TotalDocs": 79
+    },
+    {
+        "ScopusComOrgSourcesID": 150,
+        "ScopusComOrgID": 3,
+        "SourceName": "Research Center of Maju Makmur Mandiri Foundation",
+        "TotalDocs": 48
+    }
+]

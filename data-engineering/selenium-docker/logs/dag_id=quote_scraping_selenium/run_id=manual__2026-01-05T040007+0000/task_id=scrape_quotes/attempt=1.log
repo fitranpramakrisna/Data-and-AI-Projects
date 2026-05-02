@@ -1,0 +1,15 @@
+{"timestamp":"2026-01-05T04:00:11.416817Z","level":"info","event":"DAG bundles loaded: dags-folder","logger":"airflow.dag_processing.bundles.manager.DagBundlesManager","filename":"manager.py","lineno":179}
+{"timestamp":"2026-01-05T04:00:11.419830Z","level":"info","event":"Filling up the DagBag from /opt/airflow/dags/quote_scraping_dag.py","logger":"airflow.models.dagbag.DagBag","filename":"dagbag.py","lineno":593}
+{"timestamp":"2026-01-05T04:00:11.532044Z","level":"warning","event":"The `airflow.operators.python.PythonOperator` attribute is deprecated. Please use `'airflow.providers.standard.operators.python.PythonOperator'`.","category":"DeprecatedImportWarning","filename":"/opt/airflow/dags/quote_scraping_dag.py","lineno":2,"logger":"py.warnings"}
+{"timestamp":"2026-01-05T04:00:17.022655Z","level":"info","event":"========== LIST DATA SCRAPE ==========","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.422709Z","level":"info","event":"1. “The world as we have created it is a process of our thinking. It cannot be changed without changing our thinking.” — Albert Einstein","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.423190Z","level":"info","event":"2. “It is our choices, Harry, that show what we truly are, far more than our abilities.” — J.K. Rowling","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.424474Z","level":"info","event":"3. “There are only two ways to live your life. One is as though nothing is a miracle. The other is as though everything is a miracle.” — Albert Einstein","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.424787Z","level":"info","event":"4. “The person, be it gentleman or lady, who has not pleasure in a good novel, must be intolerably stupid.” — Jane Austen","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.425133Z","level":"info","event":"5. “Imperfection is beauty, madness is genius and it's better to be absolutely ridiculous than absolutely boring.” — Marilyn Monroe","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.425367Z","level":"info","event":"6. “Try not to become a man of success. Rather become a man of value.” — Albert Einstein","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.425598Z","level":"info","event":"7. “It is better to be hated for what you are than to be loved for what you are not.” — André Gide","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.425794Z","level":"info","event":"8. “I have not failed. I've just found 10,000 ways that won't work.” — Thomas A. Edison","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.425998Z","level":"info","event":"9. “A woman is like a tea bag; you never know how strong it is until it's in hot water.” — Eleanor Roosevelt","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.430658Z","level":"info","event":"10. “A day without sunshine is like, you know, night.” — Steve Martin","logger":"task.stdout"}
+{"timestamp":"2026-01-05T04:00:17.543378Z","level":"info","event":"Done. Returned value was: None","logger":"airflow.task.operators.airflow.providers.standard.operators.python.PythonOperator","filename":"python.py","lineno":217}

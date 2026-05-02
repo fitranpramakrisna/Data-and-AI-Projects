@@ -1,0 +1,38 @@
+[
+    {
+        "ScopusComOrgID": 1,
+        "OrgID": "60069377",
+        "OrgName": "Universitas Indonesia",
+        "OrgURL": "https://www.scopus.com/pages/organization/60069377",
+        "TotalDocs": 42049,
+        "TotalAuthors": 21622,
+        "retrieve_date": "28/11/2025"
+    },
+    {
+        "ScopusComOrgID": 2,
+        "OrgID": "60069380",
+        "OrgName": "Universitas Gadjah Mada",
+        "OrgURL": "https://www.scopus.com/pages/organization/60069380",
+        "TotalDocs": 31924,
+        "TotalAuthors": 17063,
+        "retrieve_date": "28/11/2025"
+    },
+    {
+        "ScopusComOrgID": 3,
+        "OrgID": "60069382",
+        "OrgName": "Institut Teknologi Bandung",
+        "OrgURL": "https://www.scopus.com/pages/organization/60069382",
+        "TotalDocs": 28975,
+        "TotalAuthors": 13156,
+        "retrieve_date": "28/11/2025"
+    },
+    {
+        "ScopusComOrgID": 4,
+        "OrgID": "60069383",
+        "OrgName": "Universitas Airlangga",
+        "OrgURL": "https://www.scopus.com/pages/organization/60069383",
+        "TotalDocs": 24110,
+        "TotalAuthors": 14151,
+        "retrieve_date": "28/11/2025"
+    }
+]
