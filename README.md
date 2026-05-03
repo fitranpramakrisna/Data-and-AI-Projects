@@ -1,89 +1,89 @@
 # Data AI Project 🚀
 
-Repositori terpadu untuk proyek-proyek data science, data engineering, dan machine learning. Struktur ini dirancang untuk mengelola seluruh pipeline dari data acquisition hingga model deployment.
+Unified repository for data science, data engineering, and machine learning projects. This structure is designed to manage the entire pipeline from data acquisition to model deployment.
 
 ---
 
-## 📁 Struktur Repositori
+## 📁 Repository Structure
 
 ```
 data-ai-project/
-├── data-analysis/           # Analisis data dan insights
-├── data-engineering/        # Pipeline data dan infrastruktur
-├── machine-learning/        # Model development dan deployment
+├── data-analysis/           # Data analysis and insights
+├── data-engineering/        # Data pipelines and infrastructure
+├── machine-learning/        # Model development and deployment
 └── README.md
 ```
 
 ---
 
-## 📊 Data Analysis (Analisis Data)
+## 📊 Data Analysis
 
-Sub-repositori untuk eksplorasi data, visualisasi, dan ekstraksi insights bisnis.
+Sub-repository for data exploration, visualization, and extraction of business insights.
 
-### 🗂️ Proyek yang Tersedia:
+### 🗂️ Available Projects:
 
-| Proyek | Deskripsi |
-|--------|-----------|
-| **Cars Data Analysis** | Analisis komprehensif dataset kendaraan mencakup karakteristik performa, harga, dan trend pasar otomotif |
-| **COVID-19 Data Analysis** | Analisis epidemiologi dan statistical tracking untuk pandemic data termasuk cases, deaths, dan vaccination rates |
-| **Netflix Data Analysis** | Business intelligence untuk platform streaming: analisis konten, viewership patterns, dan subscriber trends |
-| **Online Retail Data Analysis** | E-commerce analytics mencakup customer behavior, transaction patterns, dan inventory management |
-| **Student Exam Performance Data Analysis** | Educational analytics untuk performance tracking, grade distribution, dan learning outcome assessment |
+| Project | Description |
+|---------|-------------|
+| **Cars Data Analysis** | Comprehensive analysis of vehicle dataset including performance characteristics, pricing, and automotive market trends |
+| **COVID-19 Data Analysis** | Epidemiological analysis and statistical tracking for pandemic data including cases, deaths, and vaccination rates |
+| **Netflix Data Analysis** | Business intelligence for streaming platform: content analysis, viewership patterns, and subscriber trends |
+| **Online Retail Data Analysis** | E-commerce analytics including customer behavior, transaction patterns, and inventory management |
+| **Student Exam Performance Data Analysis** | Educational analytics for performance tracking, grade distribution, and learning outcome assessment |
 
 ### 📁 Supporting Files:
 
-- **certificates/** - Sertifikasi dan dokumentasi kualifikasi
-- **Excel/** - Template dan workbooks untuk analisis
-- **README.md** - Panduan lengkap data analysis subrepository
+- **certificates/** - Certifications and qualification documentation
+- **Excel/** - Templates and workbooks for analysis
+- **README.md** - Complete guide to data analysis sub-repository
 
 ### 📄 Database Files:
 
-- `COVID19-Exploration-Data.sql` - Query set untuk COVID-19 data exploration
-- `Nashville-Housing-Cleaning-Data.sql` - Data cleaning scripts untuk housing dataset
+- `COVID19-Exploration-Data.sql` - Query set for COVID-19 data exploration
+- `Nashville-Housing-Cleaning-Data.sql` - Data cleaning scripts for housing dataset
 
 ---
 
-## 🔧 Data Engineering (Engineering Data)
+## 🔧 Data Engineering
 
-Sub-repositori untuk infrastruktur data, ETL pipelines, dan data orchestration.
+Sub-repository for data infrastructure, ETL pipelines, and data orchestration.
 
-### 🗂️ Proyek yang Tersedia:
+### 🗂️ Available Projects:
 
-| Proyek | Deskripsi |
-|--------|-----------|
-| **dbt-data-modeling** | Data transformation framework menggunakan dbt untuk modeling, testing, dan documentation |
-| **job-market-analysis** | Pipeline untuk scraping dan analisis job market data, trends, dan salary insights |
-| **scraping-scopus-rtt** | Web scraping infrastructure untuk academic paper dan research publication data |
-| **selenium-docker** | Containerized web automation framework untuk scalable data collection |
-| **web-scraping** | General-purpose web scraping utilities dan tools untuk berbagai sumber data |
+| Project | Description |
+|---------|-------------|
+| **dbt-data-modeling** | Data transformation framework using dbt for modeling, testing, and documentation |
+| **job-market-analysis** | Pipeline for scraping and analyzing job market data, trends, and salary insights |
+| **scraping-scopus-rtt** | Web scraping infrastructure for academic papers and research publication data |
+| **selenium-docker** | Containerized web automation framework for scalable data collection |
+| **web-scraping** | General-purpose web scraping utilities and tools for various data sources |
 
 ### 🎯 Use Cases:
 
-- **Data Collection**: Automated scraping dari multiple sources
-- **Data Transformation**: ETL processes dengan dbt
-- **Data Quality**: Validation dan cleaning pipelines
-- **Orchestration**: Scheduling dan monitoring data workflows
+- **Data Collection**: Automated scraping from multiple sources
+- **Data Transformation**: ETL processes with dbt
+- **Data Quality**: Validation and cleaning pipelines
+- **Orchestration**: Scheduling and monitoring data workflows
 
 ---
 
-## 🤖 Machine Learning (Machine Learning & AI)
+## 🤖 Machine Learning
 
-Sub-repositori untuk model development, training, dan deployment.
+Sub-repository for model development, training, and deployment.
 
-### 🗂️ Proyek yang Tersedia:
+### 🗂️ Available Projects:
 
-| Proyek | Deskripsi |
-|--------|-----------|
-| **ocr-web-app** | Optical Character Recognition web application untuk document digitization dan text extraction |
-| **sms-classification-web** | Deep learning model untuk SMS/text classification (spam detection, sentiment, category) |
-| **structured-data-projects** | Machine learning pipeline untuk structured data modeling dan predictive analytics |
+| Project | Description |
+|---------|-------------|
+| **ocr-web-app** | Optical Character Recognition web application for document digitization and text extraction |
+| **sms-classification-web** | Deep learning model for SMS/text classification (spam detection, sentiment, category) |
+| **structured-data-projects** | Machine learning pipeline for structured data modeling and predictive analytics |
 
 ### 🔬 Capabilities:
 
-- **Model Training**: Supervised dan unsupervised learning algorithms
-- **Deep Learning**: Neural networks untuk NLP dan computer vision
-- **Web Applications**: Flask/FastAPI endpoints untuk model serving
-- **Deployment**: Production-ready model packaging dan containerization
+- **Model Training**: Supervised and unsupervised learning algorithms
+- **Deep Learning**: Neural networks for NLP and computer vision
+- **Web Applications**: Flask/FastAPI endpoints for model serving
+- **Deployment**: Production-ready model packaging and containerization
 
 ---
 
@@ -93,17 +93,17 @@ Sub-repositori untuk model development, training, dan deployment.
 
 - Python 3.8+
 - Git
-- Docker (untuk containerized projects)
+- Docker (for containerized projects)
 - SQL database (PostgreSQL/MySQL recommended)
 
 ### Installation
 
 ```bash
-# Clone repositori utama
+# Clone main repository
 git clone https://github.com/yourusername/data-ai-project.git
 cd data-ai-project
 
-# Clone semua sub-repositori
+# Clone all sub-repositories
 git clone https://github.com/yourusername/data-ai-project-data-analysis.git data-analysis
 git clone https://github.com/yourusername/data-ai-project-data-engineering.git data-engineering
 git clone https://github.com/yourusername/data-ai-project-machine-learning.git machine-learning
@@ -116,7 +116,7 @@ git clone https://github.com/yourusername/data-ai-project-machine-learning.git m
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# Install dependencies (di setiap subrepository)
+# Install dependencies (in each sub-repository)
 cd data-analysis && pip install -r requirements.txt
 cd ../data-engineering && pip install -r requirements.txt
 cd ../machine-learning && pip install -r requirements.txt
@@ -142,47 +142,47 @@ Deployment & Monitoring
 
 ## 📚 Documentation
 
-Setiap sub-repositori memiliki dokumentasi lengkap:
+Each sub-repository has complete documentation:
 
 - **Data Analysis**: `/data-analysis/README.md`
 - **Data Engineering**: `/data-engineering/README.md`
 - **Machine Learning**: `/machine-learning/README.md`
 
-Untuk instruksi detail tentang setiap proyek, lihat README di folder masing-masing.
+For detailed instructions on each project, see the README in the respective folder.
 
 ---
 
 ## 🔐 Security & Best Practices
 
-- ✅ Gunakan `.gitignore` untuk sensitive files
-- ✅ Store credentials di environment variables
-- ✅ Regular security audits untuk dependencies
-- ✅ Version control untuk semua data pipelines
-- ✅ Documentation untuk reproducibility
+- ✅ Use `.gitignore` for sensitive files
+- ✅ Store credentials in environment variables
+- ✅ Regular security audits for dependencies
+- ✅ Version control for all data pipelines
+- ✅ Documentation for reproducibility
 
 ---
 
 ## 🤝 Contributing
 
-1. Fork repository
-2. Create feature branch (`git checkout -b feature/AmazingFeature`)
+1. Fork the repository
+2. Create a feature branch (`git checkout -b feature/AmazingFeature`)
 3. Commit changes (`git commit -m 'Add AmazingFeature'`)
-4. Push ke branch (`git push origin feature/AmazingFeature`)
-5. Open Pull Request
+4. Push to the branch (`git push origin feature/AmazingFeature`)
+5. Open a Pull Request
 
 ---
 
 ## 📞 Contact & Support
 
-- **Issues**: Report bugs dan feature requests di GitHub Issues
-- **Discussions**: Kolaborasi dan Q&A di GitHub Discussions
-- **Documentation**: Check `/docs` folder untuk guides lengkap
+- **Issues**: Report bugs and feature requests on GitHub Issues
+- **Discussions**: Collaboration and Q&A on GitHub Discussions
+- **Documentation**: Check `/docs` folder for complete guides
 
 ---
 
 ## 📝 License
 
-Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ---
 
@@ -203,7 +203,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file LICENSE untuk detail.
 - [ ] Expand to cloud deployment (AWS/GCP)
 - [ ] Integrate with BI tools (Tableau, Power BI)
 - [ ] Automated testing & CI/CD pipeline
-- [ ] Documentation dengan Sphinx
+- [ ] Documentation with Sphinx
 
 ---
 
